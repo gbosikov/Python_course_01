@@ -1,5 +1,3 @@
-
-
 """
 Урок 1. Знакомство с Python
 """
@@ -164,3 +162,4 @@ print(type(my_first_func(my_var)))
 print(type(my_first_func))
 
 print('end')
+
